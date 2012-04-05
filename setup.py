@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(
-    name='facebook-sdk',
+    name='facebook-python-sdk',
     version='0.2.0',
     description='This client library is designed to support the Facebook '
                 'Graph API and the official Facebook JavaScript SDK, which '
